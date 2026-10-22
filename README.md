@@ -5,13 +5,11 @@
 
 <p align="center">
   <a href="https://github.com/gabrriela07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=DA291C&center=true&vCenter=true&width=620&lines=SELECT+*+FROM+insights+WHERE+impacto+%3E+0%3B;Analista+de+dados+%7C+Opera%C3%A7%C3%A3o+Comercial;Do+SQL+ao+React+%E2%9A%9B%EF%B8%8F;Transformando+n%C3%BAmeros+em+decis%C3%A3o+%F0%9F%93%8A;console.log(%22Hello%2C+World!%22)%3B" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabrriela07&label=visitas&color=9F313D&style=flat-square" alt="visitas"/>
-  <img src="https://img.shields.io/github/followers/gabrriela07?label=seguidores&style=flat-square&color=44546A" alt="seguidores"/>
 </p>
 
 ---
