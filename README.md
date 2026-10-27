@@ -1,7 +1,4 @@
 <!-- ===================== HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:44546A,100:9F313D&height=180&section=header&text=Gabriela%20Garcia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Dados%20%E2%80%A2%20Dashboards%20%E2%80%A2%20JavaScript&descAlignY=58&descSize=16" alt="header"/>
-</p>
 
 <p align="center">
   <a href="https://github.com/gabrriela07">
