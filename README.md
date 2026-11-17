@@ -30,25 +30,25 @@ const me = {
 
 ## stack
 
-**dados & analytics**
+**⚔️ dados & analytics**
 
-![SQL](https://img.shields.io/badge/SQL-1f2937?style=flat-square&logo=postgresql&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-1f2937?style=flat-square&logo=duckdb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-1f2937?style=flat-square&logo=mariadb&logoColor=white)
-![KNIME](https://img.shields.io/badge/KNIME-1f2937?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-1f2937?style=flat-square&logo=powerbi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-1f2937?style=flat-square&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0b0f1a?style=for-the-badge&logo=postgresql&logoColor=22d3ee&labelColor=0b0f1a&color=22d3ee)
+![DuckDB](https://img.shields.io/badge/DuckDB-0b0f1a?style=for-the-badge&logo=duckdb&logoColor=fbbf24&labelColor=0b0f1a&color=fbbf24)
+![MySQL](https://img.shields.io/badge/MySQL-0b0f1a?style=for-the-badge&logo=mysql&logoColor=60a5fa&labelColor=0b0f1a&color=60a5fa)
+![MariaDB](https://img.shields.io/badge/MariaDB-0b0f1a?style=for-the-badge&logo=mariadb&logoColor=a78bfa&labelColor=0b0f1a&color=a78bfa)
+![KNIME](https://img.shields.io/badge/KNIME-0b0f1a?style=for-the-badge&logoColor=fbbf24&labelColor=0b0f1a&color=fbbf24)
+![Power BI](https://img.shields.io/badge/Power_BI-0b0f1a?style=for-the-badge&logo=powerbi&logoColor=fbbf24&labelColor=0b0f1a&color=fbbf24)
+![Jupyter](https://img.shields.io/badge/Jupyter-0b0f1a?style=for-the-badge&logo=jupyter&logoColor=fb923c&labelColor=0b0f1a&color=fb923c)
 
-**desenvolvimento** (em evolução 🚧)
+**🛠️ desenvolvimento** (em evolução 🚧)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=white)
-![ECharts](https://img.shields.io/badge/ECharts-1f2937?style=flat-square&logo=apacheecharts&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-1f2937?style=flat-square&logo=express&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-1f2937?style=flat-square&logo=vitest&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0f1a?style=for-the-badge&logo=javascript&logoColor=facc15&labelColor=0b0f1a&color=facc15)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b0f1a?style=for-the-badge&logo=typescript&logoColor=60a5fa&labelColor=0b0f1a&color=60a5fa)
+![React](https://img.shields.io/badge/React-0b0f1a?style=for-the-badge&logo=react&logoColor=22d3ee&labelColor=0b0f1a&color=22d3ee)
+![ECharts](https://img.shields.io/badge/ECharts-0b0f1a?style=for-the-badge&logo=apacheecharts&logoColor=f87171&labelColor=0b0f1a&color=f87171)
+![Node.js](https://img.shields.io/badge/Node.js-0b0f1a?style=for-the-badge&logo=nodedotjs&logoColor=34d399&labelColor=0b0f1a&color=34d399)
+![Express](https://img.shields.io/badge/Express-0b0f1a?style=for-the-badge&logo=express&logoColor=e2e8f0&labelColor=0b0f1a&color=e2e8f0)
+![Vitest](https://img.shields.io/badge/Vitest-0b0f1a?style=for-the-badge&logo=vitest&logoColor=a3e635&labelColor=0b0f1a&color=a3e635)
 
 <br/>
 
@@ -57,14 +57,14 @@ const me = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabrriela07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&icon_color=22d3ee&ring_color=a78bfa&border_radius=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gabrriela07&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=24292f&icon_color=0891b2&ring_color=7c3aed&border_radius=12" />
-  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=gabrriela07&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=24292f&icon_color=0891b2&ring_color=7c3aed&border_radius=12" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrriela07/gabrriela07/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrriela07/gabrriela07/main/profile-summary-card-output/github/3-stats.svg" />
+  <img alt="Estatísticas do GitHub" width="49%" src="https://raw.githubusercontent.com/gabrriela07/gabrriela07/main/profile-summary-card-output/github/3-stats.svg" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrriela07&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&border_radius=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrriela07&layout=compact&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=24292f&border_radius=12" />
-  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrriela07&layout=compact&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=24292f&border_radius=12" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrriela07/gabrriela07/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrriela07/gabrriela07/main/profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img alt="Linguagens mais usadas nos commits" width="49%" src="https://raw.githubusercontent.com/gabrriela07/gabrriela07/main/profile-summary-card-output/github/2-most-commit-language.svg" />
 </picture>
 
 <picture>
