@@ -15,7 +15,7 @@
 ```js
 const me = {
   local:       "Campinas, SP 🇧🇷",
-  area:        "Análise de dados • Operação Comercial",
+  area:        "Análise de dados • B.I | M.I.S",
   diaADia:     ["SQL", "DuckDB", "MySQL/MariaDB", "KNIME", "Power BI"],
   aprendendo:  ["JavaScript", "TypeScript", "React", "Node/Express", "Vitest"]
 };
