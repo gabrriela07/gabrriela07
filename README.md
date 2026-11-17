@@ -1,96 +1,107 @@
-<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/gabrriela07">
-  </a>
-</p>
+<img src="./assets/ghost.svg" alt="Fantasminha ouvindo música" width="360" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrriela07&label=visitas&color=9F313D&style=flat-square" alt="visitas"/>
-</p>
+# gabriela g.
 
----
+🎲 
 
-### 👩‍💻 Sobre mim
+</div>
 
-```sql
-SELECT nome, cargo, foco, aprendendo
-FROM   perfil
-WHERE  usuario = 'gabrriela07';
-```
+<br/>
 
-```javascript
-const gabriela = {
+## ficha
+
+```js
+const me = {
   local:       "Campinas, SP 🇧🇷",
   area:        "Análise de dados • Operação Comercial",
   diaADia:     ["SQL", "DuckDB", "MySQL/MariaDB", "KNIME", "Power BI"],
-  aprendendo:  ["JavaScript", "TypeScript", "React", "Node/Express", "Vitest"],
-  construindo: "Dashboards executivos web com foco em performance 🚀",
-  curiosidade: "Se tem número, tem história pra contar 📈",
+  aprendendo:  ["JavaScript", "TypeScript", "React", "Node/Express", "Vitest"]
 };
 ```
 
-- 📊 Construo **dashboards executivos** e indicadores de negócio (KPIs, comparativos MoM / YoY / YTD)
-- 🗄️ Modelagem de **rollups**, queries otimizadas e validação de métricas
-- ⚛️ Agora levando os dados para a web com **React + TypeScript + Express**
-- 🧪 Aplicando **testes unitários** para garantir que nenhuma métrica diverge
-- 💬 Pode falar comigo sobre: SQL, visualização de dados, automação e dashboards
+- 📊 dashboards executivos e indicadores de negócio (KPIs, comparativos MoM / YoY / YTD)
+- 🗄️ modelagem de rollups, queries otimizadas e validação de métricas
+- ⚛️ levando os dados para a web com React + TypeScript + Express
+- 🧪 testes unitários para garantir que nenhuma métrica diverge
+- 💬 vamos conversar sobre: SQL, visualização de dados, automação e dashboards
 
----
+<br/>
 
-### 🧰 Stack
+## stack
 
-**Dados & Analytics**
-<p>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
-  <img src="https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge&logo=knime&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+**dados & analytics**
 
-**Desenvolvimento (em evolução 🚧)**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,html,css,git,github,vscode&theme=dark" alt="skills"/>
-</p>
+![SQL](https://img.shields.io/badge/SQL-1f2937?style=flat-square&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-1f2937?style=flat-square&logo=duckdb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-1f2937?style=flat-square&logo=mariadb&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-1f2937?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-1f2937?style=flat-square&logo=powerbi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-1f2937?style=flat-square&logo=jupyter&logoColor=white)
 
----
+**desenvolvimento** (em evolução 🚧)
 
-### 📈 GitHub em números
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=white)
+![ECharts](https://img.shields.io/badge/ECharts-1f2937?style=flat-square&logo=apacheecharts&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1f2937?style=flat-square&logo=express&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-1f2937?style=flat-square&logo=vitest&logoColor=white)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrriela07&show_icons=true&hide_border=true&bg_color=1f2328&title_color=DA291C&icon_color=DA291C&text_color=e6edf3&locale=pt-br&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrriela07&layout=compact&hide_border=true&bg_color=1f2328&title_color=DA291C&text_color=e6edf3&locale=pt-br" alt="linguagens"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gabrriela07&hide_border=true&background=1f2328&ring=9F313D&fire=DA291C&currStreakLabel=DA291C&sideLabels=e6edf3&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&locale=pt_BR" alt="streak"/>
-</p>
+## github em números
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrriela07&bg_color=1f2328&color=e6edf3&line=DA291C&point=ffffff&area=true&area_color=9F313D&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="activity graph"/>
-</p>
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabrriela07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&icon_color=22d3ee&ring_color=a78bfa&border_radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gabrriela07&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=24292f&icon_color=0891b2&ring_color=7c3aed&border_radius=12" />
+  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=gabrriela07&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=24292f&icon_color=0891b2&ring_color=7c3aed&border_radius=12" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrriela07&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=c9d1d9&border_radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrriela07&layout=compact&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=24292f&border_radius=12" />
+  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrriela07&layout=compact&hide_border=true&bg_color=ffffff&title_color=7c3aed&text_color=24292f&border_radius=12" />
+</picture>
 
-### 🐍 Comendo o calendário de contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gabrriela07&hide_border=true&background=0d1117&ring=a78bfa&fire=22d3ee&currStreakLabel=c4b5fd&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border_radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=gabrriela07&hide_border=true&background=ffffff&ring=7c3aed&fire=0891b2&currStreakLabel=7c3aed&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=6e7781&border_radius=12" />
+  <img alt="Streak de contribuições" src="https://streak-stats.demolab.com?user=gabrriela07&hide_border=true&background=ffffff&ring=7c3aed&fire=0891b2&currStreakLabel=7c3aed&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=6e7781&border_radius=12" />
+</picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrriela07/gabrriela07/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrriela07/gabrriela07/output/github-snake.svg" />
-    <img alt="cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/gabrriela07/gabrriela07/output/github-snake.svg" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gabrriela07&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=22d3ee&area=true&area_color=a78bfa&hide_border=true&radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gabrriela07&bg_color=ffffff&color=24292f&line=7c3aed&point=0891b2&area=true&area_color=a78bfa&hide_border=true&radius=12" />
+  <img alt="Gráfico de atividade" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrriela07&bg_color=ffffff&color=24292f&line=7c3aed&point=0891b2&area=true&area_color=a78bfa&hide_border=true&radius=12" />
+</picture>
 
----
+</div>
 
-### 🗺️ Roadmap de aprendizado
+<br/>
+
+## 🐍 comendo o calendário de contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrriela07/gabrriela07/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrriela07/gabrriela07/output/github-snake.svg" />
+  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/gabrriela07/gabrriela07/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+## 🗺️ roadmap de aprendizado
 
 | Etapa | Tema | Status |
-|---|---|:---:|
+|:-:|:--|:-:|
 | 1 | SQL avançado, rollups e performance de queries | ✅ |
 | 2 | Visualização de dados e storytelling | ✅ |
 | 3 | JavaScript / TypeScript | 🔄 |
@@ -99,15 +110,13 @@ const gabriela = {
 | 6 | Testes automatizados (Vitest) | 🔄 |
 | 7 | Deploy & CI/CD com GitHub Actions | ⏳ |
 
----
+<br/>
 
-### 📫 Contato
+## contato
 
-<p>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/](https://www.linkedin.com/in/gabriela-garcia94"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gabriela.grc@outlook.com"><img src="https://img.shields.io/badge/Email-9F313D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F313D,100:44546A&height=110&section=footer" alt="footer"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2937?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-garcia94)
+[![E-mail](https://img.shields.io/badge/E--mail-1f2937?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriela.grc@outlook.com)
+
+</div>
