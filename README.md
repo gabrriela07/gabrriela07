@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="./assets/ghost.svg" width="420" />
+<img src="./assets/ghost2.svg" width="420" />
 
-# gabriela g.
+# gabriela g 🎲 
 
-🎲 
 
 </div>
 
