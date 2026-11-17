@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ghost.svg" alt="Fantasminha ouvindo música" width="360" />
+<img src="./assets/ghost.svg" width="420" />
 
 # gabriela g.
 
